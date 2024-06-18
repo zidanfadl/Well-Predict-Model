@@ -1,0 +1,7 @@
+regex==2.5.145
+pandas==2.0.3
+numpy==1.25.2
+scikit-learn==1.2.2
+tensorflow==2.15.0
+tensorflow_decision_forests==1.8.1
+tensorflowjs==4.20.0
